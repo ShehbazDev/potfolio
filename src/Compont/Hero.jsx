@@ -18,7 +18,7 @@ const Hero = () => {
             </div>
             <div className="flex flex-col gap-4">
               <p className="text-white text-center md:text-start">
-                Who a developer
+                Who a Developer
               </p>
 
               <h1 className="text-white text-7xl md:text-start text-center">
